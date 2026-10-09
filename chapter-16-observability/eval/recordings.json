@@ -1,0 +1,16 @@
+{
+    "What is the reimbursement for using a personal car?": {
+        "answer": "The reimbursement is 0.42 euro/km, plus documented tolls and parking [1].",
+        "excerpts": [
+            {
+                "id": "Travel policy - Art. 5",
+                "data": "2025-03-01",
+                "text": "[Travel policy, updated 2025-03-01]\nArt. 5: Use of personal car\nThe mileage reimbursement is 0.42 euro/km. Documented tolls and parking are reimbursed."
+            }
+        ]
+    },
+    "Can I work remotely from abroad?": {
+        "answer": "I could not find this information in the available documents.",
+        "excerpts": []
+    }
+}

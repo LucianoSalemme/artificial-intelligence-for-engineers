@@ -1,0 +1,18 @@
+Article 1: Passwords
+Company passwords must be at least 12 characters long, unique for each
+service, and stored in the company password manager. Sharing them or
+writing them down in plain text is prohibited.
+
+Article 2: Two-factor authentication
+Two-factor authentication is mandatory for every company service that
+supports it, starting with email and the VPN.
+
+Article 3: Personal devices
+Access to company systems from personal devices is allowed only from
+devices registered with the IT department and equipped with the company
+security profile.
+
+Article 4: Incident reporting
+Every suspected security incident, including phishing emails and the loss
+of company devices, must be reported within 24 hours to the IT department
+through the dedicated channel.

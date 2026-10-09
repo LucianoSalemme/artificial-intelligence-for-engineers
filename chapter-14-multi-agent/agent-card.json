@@ -1,0 +1,19 @@
+{
+  "name": "Sales analysis agent",
+  "description": "Analyzes sales data and produces concise reports with charts.",
+  "version": "2.1.0",
+  "supportedInterfaces": [
+    { "url": "https://agents.example.com/sales",
+      "protocolBinding": "JSONRPC",
+      "protocolVersion": "1.0" }
+  ],
+  "capabilities": { "streaming": true },
+  "skills": [
+    {
+      "id": "quarterly-report",
+      "name": "Quarterly report",
+      "description": "Generates the sales report for a quarter, with year-over-year comparison.",
+      "tags": ["sales", "reporting"]
+    }
+  ]
+}

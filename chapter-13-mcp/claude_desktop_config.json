@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "acme-orders": {
+      "command": "python",
+      "args": ["/absolute/path/server.py"]
+    }
+  }
+}

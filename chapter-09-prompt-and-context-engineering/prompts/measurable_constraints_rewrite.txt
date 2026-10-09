@@ -1,0 +1,5 @@
+Summarize the document in a list of 3-5 bullet
+points. Each point: one sentence, 20 words maximum.
+Include only decisions made and actions to take; omit
+preambles and pleasantries. If there are no decisions
+or actions, reply exactly: "No action."

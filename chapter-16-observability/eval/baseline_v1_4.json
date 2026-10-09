@@ -1,0 +1,25 @@
+{
+    "judge": "judge-v2",
+    "cases": [
+        {
+            "id": "G01",
+            "recall": true,
+            "citations": true,
+            "grounded": true,
+            "relevant": true
+        },
+        {
+            "id": "G02",
+            "recall": true,
+            "citations": true,
+            "grounded": true,
+            "relevant": false
+        }
+    ],
+    "metrics": {
+        "recall": 1.0,
+        "citations": 1.0,
+        "grounded": 1.0,
+        "relevant": 0.5
+    }
+}

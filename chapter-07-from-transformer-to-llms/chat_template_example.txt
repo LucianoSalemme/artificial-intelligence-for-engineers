@@ -1,0 +1,11 @@
+<|system|>
+You are a technical assistant. Answer in English, concisely.
+<|user|>
+Write a Python function that computes the factorial.
+<|assistant|>
+def factorial(n):
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+<|end|>

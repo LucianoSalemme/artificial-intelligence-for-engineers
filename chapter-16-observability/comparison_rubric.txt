@@ -1,0 +1,19 @@
+Compare two answers from a document assistant.
+Criteria, in order of priority:
+1. GROUNDEDNESS: every statement must be supported by
+   the excerpts. An answer with even a single
+   unsupported statement CANNOT win against an answer
+   that is fully grounded.
+2. RELEVANCE: the answer addresses what the question
+   asks.
+3. CONCISENESS: all else being equal, the shorter
+   answer wins. Length is not a merit.
+First list the statements of each answer not supported
+by the excerpts, then give your reasoning, then reply
+in JSON: {"winner": "A" | "B" | "tie"}.
+
+Excerpts: [Travel policy, Art. 5] The mileage
+reimbursement is 0.42 euro/km. Documented tolls and
+parking are reimbursed.
+Answer A: ...
+Answer B: ...
